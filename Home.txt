@@ -1,0 +1,12 @@
+spring=input("are you using spring FrameWorks")
+if (yes)
+{
+	Spring boot;
+	spring Mvc;
+}
+else()
+{
+	Angular js;
+	Web service;
+	RestAPI;
+}
