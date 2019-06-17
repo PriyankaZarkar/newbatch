@@ -6,5 +6,7 @@ if (yes)
 }
 else()
 {
-	spring IOc
+	spring IOc;
+	Web service;
+	RestAPI;
 }
