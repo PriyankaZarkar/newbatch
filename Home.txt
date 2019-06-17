@@ -6,7 +6,7 @@ if (yes)
 }
 else()
 {
-	spring IOc;
+	Angular js;
 	Web service;
 	RestAPI;
 }
