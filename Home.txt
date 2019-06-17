@@ -6,6 +6,7 @@ if (yes)
 }
 else()
 {
+Angular 1;
 	Html;
 	spring ioc;
 	Angular js;
