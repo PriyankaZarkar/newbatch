@@ -12,4 +12,7 @@ Angular 1;
 	Angular js;
 	Web service;
 	RestAPI;
+	
+	priya;
+	Healthcare project;
 }
